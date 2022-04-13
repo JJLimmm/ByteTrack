@@ -138,4 +138,5 @@ docs/api
 *.engine
 events.out.tfevents*
 pretrained
-YOLOX_outputs
+YOLOX_outputs/*
+datasets/*
